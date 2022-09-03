@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title><h1><b>All about SPace and Earth</b></h1></title>
+    
+</head>
+<h1><b>All About Planet Earth and the Solar system</b></h1>
+<h2>All about Earth</h2>
+<body>
+    
+    
+    <style>
+    p { color: rgb(255,140,10);}
+    h2 { color: rgb(79,189,206);}
+    h1 { color: rgb(245,189,31);}
+     body{ background-color: rgb(0,0,0);}
+     ol {color: rgb(255,140,10);}
+     h2 { background-color: rgb(200,1,76);}
+     #earth { color: rgb(0,183,235);}
+     h3 { color: rgb(245,189,31);}
+     #solar { color: rgb(0,183,235);}
+     
+    </style>
+
+
+<img src="http://www.nasa.gov/centers/goddard/images/content/638831main_globe_east_2048.jpg" alt=""width="300">
+
+
+<p><br><strong>Earth is the third planet from the Sun and the
+only astronomical object known to harbor life.
+While large volumes of water can be found throughout the Solar
+System, only Earth sustains liquid surface water. About 71% of
+Earth's surface is made up of the ocean, dwarfing Earth's
+polar ice, lakes, and rivers. The remaining 29% of Earth's
+surface is land, consisting of continents
+and islands.</strong></p>
+
+
+<h2> 5 Places to visit</h2>
+
+<ol><li><em>The Grand Canyon</em></li>
+<li><em>Angkor Wat</em></li>
+<li><em>The Taj Mahal</em></li>
+<li><em>Machu Picchu</em></li>
+<li><em>Rainbow Mountains</em></li>
+
+</ol>
+<a id="earth" href="https://en.wikipedia.org/wiki/Earth">To learn More about Earth click here!!!</a>
+
+
+<h2>About the solar system</h2>
+
+<p><strong>The Solar System is the gravitationally bound system
+of the Sun and the objects that orbit it. It formed 4.6 billion
+years ago from the gravitational collapse of a giant interstellar
+molecular cloud.</strong> The four inner system planets—<strong>
+Mercury, Venus,Earth and Mars</strong>—are terrestrial planets, being
+composed primarily of rock and metal. The four giant planets of
+the outer system are substantially larger and more massive than
+the terrestrials.The two largest, </strong>Jupiter and Saturn</strong>,
+are gas giants, being composed mainly of hydrogen and helium; the next two,
+<strong>Uranus and Neptune<strong>, are ice giants, being composed mostly of volatile
+substances with relatively high melting points compared with
+hydrogen and helium, such as water, ammonia, and methane.
+<strong>All eight planets have nearly circular orbits that lie near the
+plane of Earth's orbit, called the ecliptic.</strong> </p>
+<img src="https://cdn.mos.cms.futurecdn.net/v5n22xGyNNHLzSnSArbrVH.jpg" alt=""width="350">
+<a id="solar" href="https://solarsystem.nasa.gov/solar-system/our-solar-system/overview/">
+    <br >To learn more about The solar system click here</a>
+           
+        
+
+
+
+</body>
+</html>
